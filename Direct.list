@@ -360,6 +360,9 @@ DOMAIN-SUFFIX,emby-data.r2s.site
 DOMAIN-SUFFIX,emby-data.neversay.eu.org
 DOMAIN-SUFFIX,emby-data.800686.xyz
 
+# 匹配域名关键字--直连
+DOMAIN-KEYWORD,nsloop
+DOMAIN-KEYWORD,notion
 
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
@@ -604,3 +607,4 @@ DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,laogl.top
