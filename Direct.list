@@ -359,6 +359,8 @@ DOMAIN-SUFFIX,emby-data.wx1.us.kg
 DOMAIN-SUFFIX,emby-data.r2s.site
 DOMAIN-SUFFIX,emby-data.neversay.eu.org
 DOMAIN-SUFFIX,emby-data.800686.xyz
+DOMAIN-SUFFIX,lanyuewan.cn
+
 
 # 匹配域名关键字--直连
 DOMAIN-KEYWORD,nsloop
