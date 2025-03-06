@@ -57,6 +57,25 @@ DOMAIN-SUFFIX,nodeseek.com
 
 DOMAIN-SUFFIX,kjfx.cc
 
+DOMAIN-SUFFIX,hlive.io
+DOMAIN-SUFFIX,ndmdhs.com
+DOMAIN-SUFFIX,anygate.vip
+DOMAIN-SUFFIX,yfsp.tv
+DOMAIN-SUFFIX,bitwayeat.com
+DOMAIN-SUFFIX,etcbbi.xyz
+DOMAIN-SUFFIX,etcbbf.xyz
+DOMAIN-SUFFIX,etcbbj.xyz
+DOMAIN-SUFFIX,etcbbi.xyz
+DOMAIN-SUFFIX,etcbbh.xyz
+DOMAIN-SUFFIX,etcbbf.xyz
+DOMAIN-SUFFIX,etcbbg.xyz
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,pipecdn.vip
+DOMAIN-SUFFIX,wyav.tv
+DOMAIN-SUFFIX,tfboyaac.com
+DOMAIN-SUFFIX,tfboyaab.com
+DOMAIN-SUFFIX,aiyifan.tv
+
 DOMAIN-SUFFIX,polivera.ai
 DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,mmcks.top
@@ -103,6 +122,7 @@ DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,pikpak.kiteyuan.info
 DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,har01d.org
+DOMAIN-SUFFIX,docker.1panel.live
 
 ##域名关键词匹配
 DOMAIN-KEYWORD,tmdb
