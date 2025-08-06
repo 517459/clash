@@ -365,27 +365,7 @@ DOMAIN-SUFFIX,emby-data.younv.at
 DOMAIN-SUFFIX,emby-data.xnn.ee
 
 # 影视资源站
-DOMAIN-SUFFIX,dyttzyapi.com
-DOMAIN-SUFFIX,heimuer.xyz
-DOMAIN-SUFFIX,heimuer.tv
-DOMAIN-SUFFIX,rycjapi.com
-DOMAIN-SUFFIX,bfzyapi.com
-DOMAIN-SUFFIX,tyyszy.com
-DOMAIN-SUFFIX,ffzy5.tv
-DOMAIN-SUFFIX,360zy.com
-DOMAIN-SUFFIX,maotaizy.cc
-DOMAIN-SUFFIX,wolongzyw.com
-DOMAIN-SUFFIX,jszyapi.com
-DOMAIN-SUFFIX,dbzy.tv
-DOMAIN-SUFFIX,mozhuazy.com
-DOMAIN-SUFFIX,mdzyapi.com
-DOMAIN-SUFFIX,zuidapi.com
-DOMAIN-SUFFIX,apiyhzy.com
-DOMAIN-SUFFIX,wujinapi.me
-DOMAIN-SUFFIX,wwzy.tv
-DOMAIN-SUFFIX,ikunzyapi.com
 DOMAIN-SUFFIX,lziapi.com
-DOMAIN-SUFFIX,xmm.hk
 
 
 # 匹配域名关键字--直连
