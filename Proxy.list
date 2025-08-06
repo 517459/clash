@@ -1,3 +1,5 @@
+# 强制走代理添加
+
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
@@ -16,6 +18,30 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
+
+
+# 影视资源站
+DOMAIN-SUFFIX,dyttzyapi.com
+DOMAIN-SUFFIX,heimuer.xyz
+DOMAIN-SUFFIX,heimuer.tv
+DOMAIN-SUFFIX,rycjapi.com
+DOMAIN-SUFFIX,bfzyapi.com
+DOMAIN-SUFFIX,tyyszy.com
+DOMAIN-SUFFIX,ffzy5.tv
+DOMAIN-SUFFIX,360zy.com
+DOMAIN-SUFFIX,maotaizy.cc
+DOMAIN-SUFFIX,wolongzyw.com
+DOMAIN-SUFFIX,jszyapi.com
+DOMAIN-SUFFIX,dbzy.tv
+DOMAIN-SUFFIX,mozhuazy.com
+DOMAIN-SUFFIX,mdzyapi.com
+DOMAIN-SUFFIX,zuidapi.com
+DOMAIN-SUFFIX,apiyhzy.com
+DOMAIN-SUFFIX,wujinapi.me
+DOMAIN-SUFFIX,wwzy.tv
+DOMAIN-SUFFIX,ikunzyapi.com
+DOMAIN-SUFFIX,xmm.hk
+
 
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
