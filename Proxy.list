@@ -183,6 +183,7 @@ DOMAIN-SUFFIX,mmdns.top
 
 ##域名关键词匹配
 DOMAIN-KEYWORD,tmdb
+DOMAIN-KEYWORD,hongxingyun
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
