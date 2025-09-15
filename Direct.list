@@ -371,6 +371,9 @@ DOMAIN-SUFFIX,lziapi.com
 # 匹配域名关键字--直连
 DOMAIN-KEYWORD,nsloop
 DOMAIN-KEYWORD,notion
+DOMAIN-KEYWORD,cloudflare-dns
+DOMAIN-KEYWORD,cloudflare
+
 
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
