@@ -1,0 +1,12 @@
+# 美国强制走代理
+
+
+#影视库
+DOMAIN-SUFFIX,kfc.v50.su
+DOMAIN-SUFFIX,emby.v50.su
+DOMAIN-SUFFIX,cloudflare.v50.su
+
+
+# 域名关键词匹配
+# DOMAIN-KEYWORD,tmdb
+# DOMAIN-KEYWORD,hongxingyun
