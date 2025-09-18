@@ -1,13 +1,10 @@
-# 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
-# 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
-# 小雅Emby爬虫
 DOMAIN-SUFFIX,emby.xiaoya.pro
 DOMAIN-SUFFIX,icyou.eu.org
 DOMAIN-SUFFIX,emby.8.net.co
@@ -29,15 +26,13 @@ DOMAIN-SUFFIX,emby-data.xn--yetq23gxma.org
 DOMAIN-SUFFIX,emby-data.younv.at
 DOMAIN-SUFFIX,emby-data.xnn.ee
 
-# 影视资源站
 DOMAIN-SUFFIX,lziapi.com
 DOMAIN-SUFFIX,r2afosne.dpdns.org
 
-
-# 匹配域名关键字--直连
 DOMAIN-KEYWORD,nsloop
 DOMAIN-KEYWORD,notion
 DOMAIN-KEYWORD,cloudflare-dns
 DOMAIN-KEYWORD,cloudflare
-# 匹配域名后缀--直连
+
+
 DOMAIN-SUFFIX,vmware.com
