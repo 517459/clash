@@ -1,3 +1,5 @@
+# 强制走直链列表，手动添加
+
 
 # MyList
 DOMAIN-SUFFIX,time.windows.com
@@ -5,6 +7,7 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
+# 小雅爬虫，域名后缀
 DOMAIN-SUFFIX,emby.xiaoya.pro
 DOMAIN-SUFFIX,icyou.eu.org
 DOMAIN-SUFFIX,emby.8.net.co
@@ -29,10 +32,11 @@ DOMAIN-SUFFIX,emby-data.xnn.ee
 DOMAIN-SUFFIX,lziapi.com
 DOMAIN-SUFFIX,r2afosne.dpdns.org
 
+# 其他网站，域名关键词
 DOMAIN-KEYWORD,nsloop
 DOMAIN-KEYWORD,notion
 DOMAIN-KEYWORD,cloudflare-dns
 DOMAIN-KEYWORD,cloudflare
 
-
+# 其他网站，域名后缀
 DOMAIN-SUFFIX,vmware.com
