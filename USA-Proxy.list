@@ -1,6 +1,6 @@
 # 手动添加强制美国
 
-# 域名后缀匹配
+# 影视库，域名后缀匹配
 DOMAIN-SUFFIX,kfc.v50.su
 DOMAIN-SUFFIX,emby.v50.su
 DOMAIN-SUFFIX,cloudflare.v50.su
