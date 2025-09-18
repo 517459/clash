@@ -1,7 +1,7 @@
 # 美国强制走代理
 
 
-#影视库
+# 影视库
 DOMAIN-SUFFIX,kfc.v50.su
 DOMAIN-SUFFIX,emby.v50.su
 DOMAIN-SUFFIX,cloudflare.v50.su
