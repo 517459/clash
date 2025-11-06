@@ -1,5 +1,7 @@
 # 手动添加强制美国
 
+DOMAIN-SUFFIX,66jc.top
+
 # 影视库，域名后缀匹配
 DOMAIN-SUFFIX,kfc.v50.su
 DOMAIN-SUFFIX,emby.v50.su
