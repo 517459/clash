@@ -48,6 +48,10 @@ DOMAIN-KEYWORD,nsloop
 DOMAIN-KEYWORD,notion
 DOMAIN-KEYWORD,cloudflare-dns
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,pgrm
+DOMAIN-KEYWORD,webtunnel
+
+
 
 # 其他网站，域名后缀
 DOMAIN-SUFFIX,vmware.com
